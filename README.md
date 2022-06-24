@@ -1,4 +1,3 @@
-[![Header](https://gitlab.com/hunger-care/hunger-care-app/uploads/3a01f6366fabafc54bdbedd0fcfd61d6/dominik-lange-Lej_oqHljbk-unsplash.jpg)](https://mahmudul.dev/)
 
 # Salam, folks! <img src="https://gitlab.com/hunger-care/hunger-care-app/uploads/e60a3b0e1986aa1671a1a6f9485cae81/wave.gif" width="30px">
 
