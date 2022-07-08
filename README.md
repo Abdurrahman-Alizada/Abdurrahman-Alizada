@@ -22,7 +22,7 @@ My name is **Abdur Rahman** and I'm a software engineer. I'm from Paksitan, livi
   },
   "database": ["Mysql", "MongoDB"],
   "misc": ["GitHub", "GitLab"],
-  "tools": ["Visual Studio Code", "Pycharm"]
+  "tools": ["Visual Studio Code"]
 }
 ```
 
