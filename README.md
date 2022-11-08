@@ -21,7 +21,7 @@ My name is **Abdur Rahman** and I'm a software engineer. I'm from Paksitan, livi
     "Design" : ["Figma"],
   },
   "database": ["Mysql", "MongoDB"],
-  "misc": ["GitHub", "GitLab"],
+  "collaboration and version control": ["GitHub", "GitLab"],
   "tools": ["Visual Studio Code"]
 }
 ```
