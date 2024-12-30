@@ -1,10 +1,10 @@
 
 # Salam! <img src="https://gitlab.com/hunger-care/hunger-care-app/uploads/e60a3b0e1986aa1671a1a6f9485cae81/wave.gif" width="30px">
 
-My name is **Abdur Rahman** and I'm a software engineer. I'm from Paksitan, living in Peshawer and currently I'm working as **MERN stack** developer in CodeFreaks. You can find me on [LinkedIn](https://www.linkedin.com/in/abdur-rahman-316b55203/)
+My name is **Abdur Rahman** and I'm a software engineer. I'm from Pakistan, living in Peshawar, and working as a **Project manager** at Xenova soft. You can find me on [LinkedIn](https://www.linkedin.com/in/abdur-rahman-316b55203/)
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> React.js, React Native, Nodejs.
+- 🔭 <b>Currently working on:</b> React.js, Next js, React Native, Nodejs.
 - 🌴  <b>Exploring:</b> World of Decentralization.
 - 💬 <b>Ask from me about:</b> JavaScript, Solidity
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:abdurrahmanalizada17@gmail.com" target="_blank">abdurrahmanalizada17@gmail.com</a>
@@ -15,9 +15,9 @@ My name is **Abdur Rahman** and I'm a software engineer. I'm from Paksitan, livi
 {
   "languages": ["JavaScript", "Solidity", "C++"],
   "frameworks/libraries": {
-    "backend": ["Nodejs",],
+    "backend": ["Nodejs","Express js"],
     "frontend": ["React.js", "Boostrap", "Material UI", "Vue", ],
-    "Server side rendering" : ["Nuxtjs"],
+    "Server side rendering" : ["Nextjs"],
     "Design" : ["Figma"],
   },
   "database": ["Mysql", "MongoDB"],
